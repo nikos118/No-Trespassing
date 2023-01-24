@@ -1,5 +1,5 @@
 # No-Trespassing
-An OpenCV Python project which detects tresspassing faces from a live camera feed and alerts security via email.
+An OpenCV Computer Vision Python project which detects tresspassing faces from a live camera feed and alerts security via email.
 
 ## Demo Video
 https://user-images.githubusercontent.com/121593919/214203956-233a263b-dd76-4c42-a371-16d06a05a172.mov
