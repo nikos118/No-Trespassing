@@ -2,7 +2,7 @@
 An OpenCV Computer Vision Python project which detects tresspassing faces from a live camera feed and alerts security via email.
 
 ## Demo Video
-The video below shows the program in action, as it captures me "trespassing" into my friends room and sends an alert, which includes my photo and a clear view of my face. I then show my screen, demosnstrating that there is no UI for this project, and afterwards show the gmail account which the alert was sent to!
+The video below shows the program in action, as it captures me "trespassing" into my friends room and sends an alert, which includes my photo and a clear view of my face. I then show my screen, demonstrating that an alert was sent to the "securities" gmail account!
 
 https://user-images.githubusercontent.com/121593919/214207121-7d9a12fa-0226-4b9f-a7f0-406c19dc2006.mp4
 
