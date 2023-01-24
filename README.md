@@ -2,7 +2,10 @@
 An OpenCV Computer Vision Python project which detects tresspassing faces from a live camera feed and alerts security via email.
 
 ## Demo Video
-https://user-images.githubusercontent.com/121593919/214203956-233a263b-dd76-4c42-a371-16d06a05a172.mov
+
+
+https://user-images.githubusercontent.com/121593919/214207121-7d9a12fa-0226-4b9f-a7f0-406c19dc2006.mp4
+
 
 ## Requirements
 This program was created using OpenCV 4.7.0, and programmed in Python 3.10. In order to use this program with full functionality, one must have access to a gmail account with App Passwords enabled through google account settings. It is also nessasary to have a working video input to draw faces from. Make sure you have all imported libraries installed and up to date.
